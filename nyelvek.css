@@ -1,14 +1,76 @@
+body {
+	color: #00008B;
+	background-color: #ffD700;
+}
+
 a
 {
 	color: red;
 }
 
-h1
-{
+h1 {
 	text-align: center;
 	font-size: 200%;
 	margin: 0px 0px 10px;
 	font-style: italic;
+}
+
+h1, h2 {
+	text-transform: uppercase;
+	color: red;
+}
+
+ul {
+	background-color: antiquewhite;
+	width:fit-content;
+	padding-right: 24rem;
+	margin-left: 6rem;
+	box-shadow: 10px 5px 5px black; 
+}
+
+.cfamilyBG {
+	background-color: #CD853F;
+	max-width: fit-content;
+	display:flex;
+	flex-direction: column;
+	justify-items: center;
+	align-items: center;
+	box-shadow: 10px 5px 5px black; 
+	margin-inline: 18rem;
+	padding-block: 0.5rem;
+}
+
+.cfamily {
+	background-color: #CD853F;
+	display: flex;
+	list-style: none;
+	box-shadow: none; 
+	padding: 1rem;
+	margin: 0;
+}
+
+.cfamily > li > div {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-items: center;
+	text-align: center;
+}
+
+.mainHeading::after {
+	content: " ";
+	display: block;
+	border: 2px solid green;
+	margin-inline: 20rem; 
+}
+
+.pimg {
+	width: 60rem;
+	margin-inline: auto;
+}
+
+.langs {
+	list-style-image: url("./list.png");
 }
 
 p
@@ -48,6 +110,9 @@ p:first-letter
 #kep
 {
   	width: 200px;
+	float: right;
+	height: min-content;
+	margin-left: 1rem;
 }
 
 #kek
