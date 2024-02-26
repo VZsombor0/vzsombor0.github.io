@@ -1,0 +1,68 @@
+a
+{
+	color: red;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 200%;
+	margin: 0px 0px 10px;
+	font-style: italic;
+}
+
+p
+{
+	text-align:justify;
+}
+
+p:first-letter
+{
+	margin-left: 25px;
+}
+
+.tabla_1
+{
+	width: 90%;
+	background-color: #CD853F;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: -10px -10px 30px #FFFFFF;
+	text-align: center;
+	color: #2C3D21;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.keret
+{
+	width: 200px;
+	margin: 1px auto;
+	text-align: center;
+	padding: 50px;
+	font-style: italic;
+	font-size: 75%;
+	float: right;
+}
+
+#kep
+{
+  	width: 200px;
+}
+
+#kek
+{
+	margin: auto;
+	width: 800px;
+	background-color: #B0E0E6;
+	color: blue;
+	font-weight: bold;
+	box-shadow: 10px 0px 10px black;
+}
+
+li
+{
+	padding: 3px;
+	margin: 3px;
+	font-style: italic;
+}

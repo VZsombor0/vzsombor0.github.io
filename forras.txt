@@ -1,0 +1,25 @@
+Programozási nyelvek
+Bevezető
+A programozási nyelvek a természetes nyelvektől eltérő módon kötöttebb, szigorú szabályokra épülő nyelvek, amelyeket speciális célra terveztek. A programozási nyelvekkel az ember képes gépek (értelemszerűen főként számítógépek) felé kommunikálni utasításait. A számítógépek az esetek nagy többségében nem közvetlenül értelmezik a programnyelven megfogalmazott utasításokat, hanem egy értelmező vagy fordítóprogram segítségével gépi kódra fordítják azt, majd az így kapott eredményt képesek közvetlenül végrehajtani.
+C++ Bjarne Stroustrup kezdte el a C++ programozási nyelv fejlesztését a C programozási nyelv kiterjesztéseként.
+C# A C# fejlesztését Anders Hejlsberg vezette, aki a Turbo Pascal tervezője is volt.
+Java A Java általános célú nyelv, amelyet a Sun Microsystems fejlesztett a 90-es évek elejétől kezdve.
+Magasszintű programnyelvek
+Programnyelvek fajtái
+A programozási nyelveket egy-egy adott probléma megoldására tervezték. Ebből következően léteznek általános és speciális feladatokra tervezett nyelvek.
+A speciális feladatokra tervezett nyelvek természetszerűen szűkebb eszközkészlettel bírnak, de mivel főként az adott feladathoz illeszkednek, így megkönnyítik, egyszerűbbé teszik annak megoldását.
+Az általános célú programnyelvek univerzális megoldásokat kívánnak nyujtani. Elvileg mindenféle feladat megoldására lehetőséget akarnak adni. Természetesen az általános célu programnyelvek is erősebbek illetve gyengébbek egy-egy részterületen, így egy adott probléma számítógépes programjának létrehozására is célszerű válogatni a programnyelvek közül, melyek adnak több támogatást az adott feladat megoldására.
+Egyéb programozási nyelvek
+Ismertebb nyelvek listája
+Assembly
+Basic
+C
+Cobol
+Fortran
+Object Pascal
+Pascal
+Perl
+PHP
+Python
+Ruby
+TCL
