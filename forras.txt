@@ -23,3 +23,11 @@ PHP
 Python
 Ruby
 TCL
+
+Ezoterikus Programnyelvek
+A programnyelvek egyik alfaja az ezoterikus programnyelvek. Ezeket általában egy ember fejleszi hobbiként, és céljuk, hogy minnél kreatívabban közelítsék meg a gépek felé iráníuló utasítások kezelését. Erre egy jó példa a brainfuck, amellyel kizárólag a "<>+-.,[]" parancsokkal képesek vagyunk teljes programokat előállítani.
+Példák:
+Brainfuck
+Malbolge
+Befunge
+Piet
